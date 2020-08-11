@@ -1,0 +1,6 @@
+1) You need to install nodejs 
+2) After that just run the command at the location where you want to create your project which is given below:
+    npx create-react-app "projectName"
+    Note: In my case I have given the name as StringManipulation
+3) Now go the location and in the project using command line with "cd location"command
+4) Now make the changes in the index file which I uploaded and then run the command npm start to start the running of the project over web.
